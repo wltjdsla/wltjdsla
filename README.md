@@ -8,4 +8,4 @@
 
 ![고려대 공대 윈터스쿨](https://user-images.githubusercontent.com/122244636/211242112-d783b029-70b0-40cb-b646-6004f227ec93.png)
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](<iframe width="560" height="315" src="https://www.youtube.com/embed/uLR1RNqJ1Mw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw)
